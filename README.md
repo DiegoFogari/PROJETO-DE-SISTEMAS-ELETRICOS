@@ -1,4 +1,4 @@
-# PROJETO-DE-SISTEMAS-EL-TRICOS
+# PROJETO-DE-SISTEMAS-ELETRICOS
 PROJETO DE SISTEMAS ELÉTRICOS
 Com o processo tecnológico e o aumento da demanda por sistemas
 produtivos mais eficientes e seguros, o projeto de equipamentos elétricos
@@ -28,7 +28,16 @@ incluem a instalação de dispositivos como disjuntores, fusíveis, relés térm
 transformadores de corrente e de potencial.
 Todo o sistema proposto será elaborado em conformidade com as normas
 técnicas estabelecidas pela ENEL, bem como com as diretrizes da NBR 5410 e
-
-3
 NBR 14039, assegurando a segurança dos trabalhadores, a proteção do meio
 ambiente e o cumprimento dos requisitos legais aplicáveis.
+DESENVOLVIMENTO
+O trabalho corresponde ao desenvolvimento integral do projeto elétrico de
+pequena indústria de papel, composta por três áreas de produção. O projeto
+abrange o levante de cargas, o dimensionamento dos disjuntores e condutores
+de baixa tensão, queda de tensão e seção mínima e a escolha dos dispositivos
+de proteção e chaves de partida adequadas aos motores.
+Além disso, foram realizadas análises de fator de potência e, quando
+apropriado, correção por bancos de capacitores. O transformador de potência
+que alimenta a instalação foi dimensionado de acordo com a demanda global,
+bem como foram calculados e verificados por simulação os níveis de curto-
+circuito em alguns pontos da rede.
