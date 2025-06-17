@@ -4,6 +4,8 @@ Para outras finalidades ou solicitações de uso que não se enquadrem nas condi
 
 Diego Henrique Viega Fogari
 diihfogari@gmail.com
+Beatriz Dubbern Machado
+William do Nascimento Pereira
 
 # PROJETO-DE-SISTEMAS-ELETRICOS
 PROJETO DE SISTEMAS ELÉTRICOS
